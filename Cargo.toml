@@ -1,0 +1,15 @@
+[package]
+name = "x10_order_rust_example"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+chrono = "0.4.38"
+hex = "0.4.3"
+log = "0.4.22"
+malachite = "0.4.16"
+rust_decimal = "1.36.0"
+rust_decimal_macros = "1.36.0"
+simple_logger = "5.0.0"
+starknet-crypto = "0.7.2"
+starknet-types-core = "0.1.6"
